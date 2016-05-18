@@ -103,7 +103,7 @@
         "Android",
         "iOS"
       ]
-    }
+    },
     {
       "name": "Front End",
       "level": "Medium",
@@ -114,7 +114,7 @@
         "CSS",
         "UI"
       ]
-    },
+    }
   ],
   "languages": [
     {
@@ -146,7 +146,7 @@
       "keywords": [
         "Android"
       ]
-    },
+    }
   ],
   "references": [
     {
@@ -160,6 +160,6 @@
     {
       "name": "Oriol Mendivil, UI/UX Designer",
       "reference": "Jose Miguel is a nice teammate, this guy have an incredible social skills and every-time is available to help others with any work and non-work issues. He's responsible, faster and dedicated into work, great hard skills and to work group"
-    },
+    }
   ]
 }

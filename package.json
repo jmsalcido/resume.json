@@ -4,7 +4,7 @@
   "description": "resume with resume.json",
   "main": "resume.json",
   "scripts": {
-    "test": ""
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/jmsalcido/resume/issues"
   },
-  "homepage": "https://github.com/jmsalcido/resume#readme"
+  "homepage": "https://github.com/jmsalcido/resume#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-jslint": "^1.0.1",
+    "gulp-jsonlint": "^1.1.2",
+    "jshint": "^2.9.2"
+  }
 }
