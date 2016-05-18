@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmsalcido/resume.git"
+    "url": "git+https://github.com/jmsalcido/resume.json.git"
   },
   "keywords": [
     "resume"
@@ -16,9 +16,9 @@
   "author": "jmsalcido",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jmsalcido/resume/issues"
+    "url": "https://github.com/jmsalcido/resume.json/issues"
   },
-  "homepage": "https://github.com/jmsalcido/resume#readme",
+  "homepage": "https://github.com/jmsalcido/resume.json#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.1",
