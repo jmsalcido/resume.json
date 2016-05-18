@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "José Miguel Salcido Aguilar",
+    "label": "Software Engineer",
+    "picture": "https://en.gravatar.com/userimage/404691/cb8da541000c1de15dfe535d03aaab22.jpg?size=200",
+    "email": "jose@otfusion.org",
+    "phone": "+52 (644) 173-2018",
+    "website": "http://otfusion.org",
+    "summary": "José is yet another software engineer. He has earned a Software Engineering degree from the Sonora Technology Institute (Insituto Tecnologico de Sonora) in 2009. Before working on Nearsoft, he worked for a local company as a part time software developer working with local clients from México. He started programming at 12 using C, PHP and Lua for Open Tibia an open source project to emulate server from CipSoft game Tibia.",
+    "location": {
+      "address": "Galeones #3",
+      "postalCode": "83224",
+      "city": "Hermosillo",
+      "countryCode": "MX",
+      "region": "Sonora"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jmsalcido",
+        "url": "http://twitter.com/jmsalcido"
+      },
+      {
+        "network": "Github",
+        "username": "jmsalcido",
+        "url": "https://github.com/jmsalcido"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nearsoft",
+      "position": "Bear Sr Software Engineer",
+      "website": "http://nearsoft.com",
+      "startDate": "2013-10-21",
+      "summary": "Working on internal products for the company and also working on different clients as a Sr Software Engineer. Nearsoft is an `nearshore` company that works with US top quality clients as the timezone is almost the same.",
+      "highlights": [
+        "Different features from the internal training tool",
+        "Mentoring interns to achieve their goals as Software Engineers employed by Nearsoft",
+        "Different community events"
+      ]
+    },
+    {
+      "company": "Switchfly, Inc.",
+      "position": "Sr Software Engineer",
+      "website": "http://switchfly.com",
+      "startDate": "2013-10-21",
+      "endDate": "2016-05-20",
+      "summary": "Worked on the full technology stacks of Switchfly, doing work from the DBMigrations team, 3rd party solutions over all the application, reports and to the new Front End Engineering team. Switchfly is a platform that powers travel, loyalty, social, payment, and mobile products for multiple clients including American Express, American Airlines, Lan, TamViagens and United Airlines and a lot of other clients.",
+      "highlights": [
+        "Senior Member of the DBMigrations team",
+        "Being core of almost all the developed features",
+        "Being a core member of almost all the application"
+      ]
+    },
+    {
+      "company": "Umbrall Software",
+      "position": "Software Engineer",
+      "website": "http://emcor.mx",
+      "startDate": "2012-06-01",
+      "endDate": "2013-05-01",
+      "summary": "Worked for different local clients, worked on C# and mobile development. This was José first job."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Django Girls",
+      "position": "Mentor",
+      "website": "http://djangogirls.com/",
+      "summary": "Global movement of free coding clubs for women that are not mainly on the technology industry."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Sonora",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2009-06-01",
+      "endDate": "2013-05-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Master",
+      "keywords": [
+        "Software Release Cycle",
+        "Programming"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "High",
+      "keywords": [
+        "Spring",
+        "Java SE"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Medium",
+      "keywords": [
+        "Android",
+        "iOS"
+      ]
+    }
+    {
+      "name": "Front End",
+      "level": "Medium",
+      "keywords": [
+        "Javascript",
+        "Ember.js",
+        "HTML",
+        "CSS",
+        "UI"
+      ]
+    },
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional level"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Violin",
+        "Guitar"
+      ]
+    },
+    {
+      "name": "Videogames",
+      "keywords": [
+        "Violin",
+        "Guitar"
+      ]
+    },
+    {
+      "name": "Mobile development",
+      "keywords": [
+        "Android"
+      ]
+    },
+  ],
+  "references": [
+    {
+      "name": "Swarup Bandyopadhyay, Engineering Manager at Switchfly, Inc.",
+      "reference": "During his tenure at Switchfly, José he gained a deep understanding of the app and is willing participant in helping anyone out at any time!  He has made his mark on multiple projects across multiple initiatives: from working on the Hotel Enrichment HRNv3 Feed Processor to working on the AAV Boombox project to being instrumental to the IT Payback Phase 2 Burn project!  We’ll miss both his technical prowess along with his fun loving personality. I wish you nothing but the best, José!"
+    },
+    {
+      "name": "Tony Martinez, Web Developer at Toptal",
+      "reference": "I had the opportunity to see the growth of Jose Miguel. How he started as an intern and how he became into a software developer at Nearsoft. He has the skill of fast learning, along with determination and passion, makes him a complete developer. In addition, he has a great commitment and teamwork. I would like to see how much Jose Miguel grows in the near future."
+    },
+    {
+      "name": "Oriol Mendivil, UI/UX Designer",
+      "reference": "Jose Miguel is a nice teammate, this guy have an incredible social skills and every-time is available to help others with any work and non-work issues. He's responsible, faster and dedicated into work, great hard skills and to work group"
+    },
+  ]
+}
