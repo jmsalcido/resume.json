@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "resume with resume.json",
+  "main": "resume.json",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsalcido/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "jmsalcido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmsalcido/resume/issues"
+  },
+  "homepage": "https://github.com/jmsalcido/resume#readme"
+}
