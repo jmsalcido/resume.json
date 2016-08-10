@@ -30,14 +30,28 @@
   "work": [
     {
       "company": "Nearsoft",
-      "position": "Bear Sr Software Engineer",
+      "position": "Mr Bear Sr Software Engineer",
       "website": "http://nearsoft.com",
       "startDate": "2013-10-21",
-      "summary": "Working on internal products for the company and also working on different clients as a Sr Software Engineer. Nearsoft is an `nearshore` company that works with US top quality clients as the timezone is almost the same.",
+      "summary": "Working on internal products for the company and also working on different clients as a Sr Software Engineer. Nearsoft is a `nearshore` company that works with US top quality clients as the timezone is almost the same.",
       "highlights": [
         "Different features from the internal training tool",
+        "Working on different internal product that we could ship as a Nearsoft product",
         "Mentoring interns to achieve their goals as Software Engineers employed by Nearsoft",
         "Different community events"
+      ]
+    },
+    {
+      "company": "ConnectedYard, Inc.",
+      "position": "Android Software Engineer",
+      "website": "http://phin.co",
+      "startDate": "2016-06-01",
+      "summary": "Worked as Android Engineer in pHin, helped the android team to implement a new architecture (MVP) in the current application as there was a big VIEW-MODEL architecture (very coupled), also added CI with Travis-CI for to run our unit tests, using junit 4, hamcrest and mockito, also started working on an Integration Test set with Espresso and UIAutomator. There were no processes for moving a feature request/bug from development to fixed/complete, but my process is, move to development and ask QA to check fix, if there is any issue open a issue on redmine  and assign to me.",
+      "highlights": [
+        "Added MVP architecture - previous architecture: Model-View, everything was coupled",
+        "Added CI for the Android team - previous 0",
+        "Added unit testing (previous 0 unit testing)",
+        "Added an initial set of integration tests (previous 0 integration/instrumental testing)"
       ]
     },
     {
@@ -98,7 +112,7 @@
     },
     {
       "name": "Mobile",
-      "level": "Medium",
+      "level": "High",
       "keywords": [
         "Android",
         "iOS"
